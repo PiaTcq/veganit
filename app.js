@@ -1,1 +1,1 @@
-let prueba = "que funcione esta garcha"
+let prueba = "que funcione esta porqueria";

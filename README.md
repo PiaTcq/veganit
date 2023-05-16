@@ -1,11 +1,11 @@
 # veganit
-una pagina que te facilitará la busqueda de restaurantes y lugares de comida veganos/vegetarianos
+una página que te facilitará la búsqueda de restaurantes y lugares de comida veganos/vegetarianos
 
-El publico objetivo son las personas veganas y vegetarianas.
+El público objetivo son las personas veganas y vegetarianas.
 
-Paginas de las que se basa el proyecto= "PedidosYa", "Mcdonalds", "Rappi", "Glovo" y "Burguer King"
+Páginas de las que se basa el proyecto= "PedidosYa", "Mcdonalds", "Rappi", "Glovo", "Burguer King", "Just Eat"
 
-Integrantes= Aguirre Nicolás, Lopez Carlos Agustin, Macchiavelli Martin, Mendoza Vanesa, Ochoa Brenda, Trebucq María Pía, Vargas Matías y Romano Francisco
+Integrantes= Aguirre Nicolás, Lopez Carlos Agustin, Macchiavelli Martin, Mendoza Vanesa, Ochoa Brenda, Romano Francisco, Trebucq María Pía y Vargas Matías.
 
+Podés acceder a nuestro repositorio remoto desde:
 https://github.com/PiaTcq/veganit.git
-

@@ -24,4 +24,8 @@
  -Trebucq María Pía.
  -Vargas Matías.
 
- * Insertar link de tablero de trabajo.
+ * Acceso al repositorio remoto:
+ https://github.com/PiaTcq/veganit.git
+
+ * Acceso al tablero de trabajo:
+ https://trello.com/invite/b/rKm9l1Vj/ATTI9a28ddf3c7143abf42940262c3be8848E536452A/veganit

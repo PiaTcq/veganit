@@ -26,7 +26,7 @@
  - **Ochoa Brenda:** 
  	"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
  - **Romano Francisco:**
-	>Escribir breve descripcion.
+	>"Vivo en santa fe capital, me gusta todo lo relacionado a la tecnología, ex jugador y fanático del rugby".
  - **Trebucq María Pía:**
 	>Escribir breve descripcion.
  - **Vargas Matías:**

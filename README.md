@@ -23,6 +23,7 @@
 	>Usuario github:
  - **Macchiavelli Martin:**
 	>"Vivo en Tigre, Buenos Aires, Argentina. Me gusta mucho la tecnologia y en la pandemia me propuse aprender programacion para desarrollarme en este rubro".
+<<<<<<< HEAD
 	>Usuario github:[Nitmacc](https://github.com/Nitmacc)
  - **Mendoza Vanesa:**
 	>"Soy de la provincia de Mendoza, capital, Argentina".
@@ -30,6 +31,12 @@
  - **Ochoa Brenda:** 
 	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar". 
 	>Usuario github: [coritac](https://github.com/coritac)
+=======
+ - **Mendoza Vanesa:**
+	>"Vivo en la provincia de Mendoza, capital, Argentina. Soy Técnica Universitaria en Laboratorio y actualmente trabajo en unos de los hospitales mas importantes de Cuyo. Mi idea es poder ampliar mis posibilidades laborales gracias a este curso y tambien poder cambiar de ámbito".
+ - **Ochoa Brenda:** 
+	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar".
+>>>>>>> 626294c5bb4ec743b897d4a4181022be43c07e38
  - **Romano Francisco:**
 	>"Vivo en santa fe capital, me gusta todo lo relacionado a la tecnología, ex jugador y fanático del rugby".
 	>Usuario github:

@@ -16,7 +16,7 @@
 ### * Este proyecto está conformado por :
 
  - **Aguirre Nicolás:**
-	>Escribir breve descripcion.
+	>"Vivo en Santa Fe, Argentina. Me encanta salir con amigos, pasar tiempo con la familia, hacer deporte y aprender cada vez más sobre este largo camino que es la programación".
  - **Lopez Carlos Agustin:**
 	>Escribir breve descripcion.
  - **Macchiavelli Martin:**

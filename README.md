@@ -7,11 +7,11 @@
  
 ### * Algunas de las páginas que nos sirvieron de inspiración para este proyecto son:
 
-	- [link](https://notco.com/ar/)
-	- [link](https://feliceslasvacas.com/)
-	- [link](https://veggieplanet.ca/)
-	- [link](https://funnyveggie.com.ar)
-	- [link](https://www.vegaffinity.com/tienda-vegana/)
+- [https://notco.com/ar](https://notco.com/ar/)
+- [https://feliceslasvacas.com](https://feliceslasvacas.com/)
+- [https://veggieplanet.ca](https://veggieplanet.ca/)
+- [lihttps://funnyveggie.com.arnk](https://funnyveggie.com.ar/)
+- [https://www.vegaffinity.com/tienda-vegana](https://www.vegaffinity.com/tienda-vegana/)
 
 ### * Este proyecto está conformado por :
 

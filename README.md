@@ -22,7 +22,7 @@
  - **Macchiavelli Martin:**
 	>"Vivo en Tigre, Buenos Aires, Argentina. Me gusta mucho la tecnologia y en la pandemia me propuse aprender programacion para desarrollarme en este rubro."
  - **Mendoza Vanesa:**
-	>Escribir breve descripcion.
+	>"Soy de la provincia de Mendoza, capital, Argentina.
  - **Ochoa Brenda:** 
 	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
  - **Romano Francisco:**

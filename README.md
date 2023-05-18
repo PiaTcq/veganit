@@ -39,5 +39,5 @@
 - [Trello.Veganit](https://trello.com/invite/b/rKm9l1Vj/ATTI9a28ddf3c7143abf42940262c3be8848E536452A/veganit/)
 
 ### * Wireframes:
-- [Carrito](https://ibb.co/f4TLbn3)
+- [Carrito](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png)
 -

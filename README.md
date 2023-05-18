@@ -30,7 +30,7 @@
  - **Trebucq María Pía:**
 	>"Vivo en Córdoba y trabajo en la UNC. En un futuro cercano me guataría trabajar como programadora así que me entusiasma mucho el curso".
  - **Vargas Matías:**
-	>Escribir breve descripcion.
+	>"Vivo en Resistencia, Chaco, tengo 18 años y estudio programación. Me gusta jugar videojuegos, ver anime y ver futbol".
 
 ### * Acceso al repositorio remoto:
 - [Veganit](https://github.com/PiaTcq/veganit.git/)

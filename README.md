@@ -35,7 +35,7 @@
 	>Usuario github:
  - **Trebucq María Pía:**
 	>"Vivo en Córdoba y trabajo en la UNC. En un futuro cercano me guataría trabajar como programadora así que me entusiasma mucho el curso".
-	> Usuario github: [https://github.com/PiaTcq](https://github.com/PiaTcq)
+	> Usuario github: [PiaTcq](https://github.com/PiaTcq)
  - **Vargas Matías:**
 	>"Vivo en Resistencia, Chaco, tengo 18 años y estudio programación. Me gusta jugar videojuegos, ver anime y ver futbol".
 	> Usuario github: [MatiasZarate](https://github.com/MatiasZarate)

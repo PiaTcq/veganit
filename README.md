@@ -32,8 +32,8 @@
  - **Vargas Matías:**
 	>Escribir breve descripcion.
 
- * Acceso al repositorio remoto:
- https://github.com/PiaTcq/veganit.git
+### * Acceso al repositorio remoto:
+- [Veganit](https://github.com/PiaTcq/veganit.git/)
 
- * Acceso al tablero de trabajo:
- https://trello.com/invite/b/rKm9l1Vj/ATTI9a28ddf3c7143abf42940262c3be8848E536452A/veganit
+### * Acceso al tablero de trabajo:
+- [Trello.Veganit](https://trello.com/invite/b/rKm9l1Vj/ATTI9a28ddf3c7143abf42940262c3be8848E536452A/veganit/)

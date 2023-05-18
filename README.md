@@ -15,14 +15,22 @@
 
  * Este proyecto está conformado por :
 
- -Aguirre Nicolás.
- -Lopez Carlos Agustin.
- -Macchiavelli Martin.
- -Mendoza Vanesa.          // escribir breve descripción de cada uno
- -Ochoa Brenda - "Soy Brenda Ochoa, vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
- -Romano Francisco.
- -Trebucq María Pía.
- -Vargas Matías.
+ - Aguirre Nicolás:
+	Escribir breve descripcion.
+ - Lopez Carlos Agustin:
+	Escribir breve descripcion.
+ - Macchiavelli Martin:
+	"Soy Martin Macchiavelli, vivo en Tigre, Buenos Aires, Argentina. Siempre me gusto mucho la tecnologia y desde la pandemia que me propuse aprender programacion. Me encantan los animales, la naturaleza y pasar tiempo con la familia y amigos."
+ - Mendoza Vanesa:
+	Escribir breve descripcion.
+ - Ochoa Brenda: 
+ 	"Soy Brenda Ochoa, vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
+ - Romano Francisco:
+	Escribir breve descripcion.
+ - Trebucq María Pía:
+	Escribir breve descripcion.
+ - Vargas Matías:
+ 	Escribir breve descripcion.
 
  * Acceso al repositorio remoto:
  https://github.com/PiaTcq/veganit.git

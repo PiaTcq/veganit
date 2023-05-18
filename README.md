@@ -19,7 +19,7 @@
  -Lopez Carlos Agustin.
  -Macchiavelli Martin.
  -Mendoza Vanesa.          // escribir breve descripción de cada uno
- -Ochoa Brenda.
+ -Ochoa Brenda - "Soy Brenda Ochoa, vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
  -Romano Francisco.
  -Trebucq María Pía.
  -Vargas Matías.

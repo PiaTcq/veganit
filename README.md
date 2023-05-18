@@ -17,7 +17,7 @@
 
  - **Aguirre Nicolás:**
 	>"Vivo en Santa Fe, Argentina. Me encanta salir con amigos, pasar tiempo con la familia, hacer deporte y aprender cada vez más sobre este largo camino que es la programación".
-	
+
 	> Usuario github: [aguirreNico](https://github.com/aguirreNico)
  - **Lopez Carlos Agustin:**
 	>Escribir breve descripcion.
@@ -30,7 +30,7 @@
  - **Mendoza Vanesa:**
 	>"Soy de la provincia de Mendoza, capital, Argentina".
 
-	> Usuario github: [vanesa-30][https://github.com/vanesa-30]
+	> Usuario github: [vanesa-30](https://github.com/vanesa-30)
  - **Ochoa Brenda:** 
 	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar". 
 

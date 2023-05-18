@@ -17,27 +17,35 @@
 
  - **Aguirre Nicolás:**
 	>"Vivo en Santa Fe, Argentina. Me encanta salir con amigos, pasar tiempo con la familia, hacer deporte y aprender cada vez más sobre este largo camino que es la programación".
+	
 	> Usuario github: [aguirreNico](https://github.com/aguirreNico)
  - **Lopez Carlos Agustin:**
 	>Escribir breve descripcion.
+
 	>Usuario github:
  - **Macchiavelli Martin:**
 	>"Vivo en Tigre, Buenos Aires, Argentina. Me gusta mucho la tecnologia y en la pandemia me propuse aprender programacion para desarrollarme en este rubro".
+
 	> Usuario github: [Nitmacc](https://github.com/Nitmacc)
  - **Mendoza Vanesa:**
 	>"Soy de la provincia de Mendoza, capital, Argentina".
+
 	> Usuario github: [vanesa-30][https://github.com/vanesa-30]
  - **Ochoa Brenda:** 
 	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar". 
+
 	> Usuario github: [coritac](https://github.com/coritac)
  - **Romano Francisco:**
 	>"Vivo en santa fe capital, me gusta todo lo relacionado a la tecnología, ex jugador y fanático del rugby".
+
 	>Usuario github:
  - **Trebucq María Pía:**
 	>"Vivo en Córdoba y trabajo en la UNC. En un futuro cercano me guataría trabajar como programadora así que me entusiasma mucho el curso".
+
 	> Usuario github: [PiaTcq](https://github.com/PiaTcq)
  - **Vargas Matías:**
 	>"Vivo en Resistencia, Chaco, tengo 18 años y estudio programación. Me gusta jugar videojuegos, ver anime y ver futbol".
+
 	> Usuario github: [MatiasZarate](https://github.com/MatiasZarate)
 
 ### * Acceso al repositorio remoto:

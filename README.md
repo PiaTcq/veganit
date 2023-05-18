@@ -5,7 +5,7 @@
 
  *Apuntamos a un público vegetariano/vegano, y a todas aquellas personas que quieran animarse a cambiar su forma de alimentación por una más saludable y animal-friendly.*
  
- * Algunas de las páginas que nos sirvieron de inspiración para este proyecto son:
+### * Algunas de las páginas que nos sirvieron de inspiración para este proyecto son:
 
 	- [link](https://notco.com/ar/)
 	- [link](https://feliceslasvacas.com/)
@@ -13,24 +13,24 @@
 	- [link](https://funnyveggie.com.ar)
 	- [link](https://www.vegaffinity.com/tienda-vegana/)
 
- * Este proyecto está conformado por :
+### * Este proyecto está conformado por :
 
- - Aguirre Nicolás:
-	Escribir breve descripcion.
- - Lopez Carlos Agustin:
-	Escribir breve descripcion.
- - Macchiavelli Martin:
-	"Soy Martin Macchiavelli, vivo en Tigre, Buenos Aires, Argentina. Siempre me gusto mucho la tecnologia y desde la pandemia que me propuse aprender programacion. Me encantan los animales, la naturaleza y pasar tiempo con la familia y amigos."
- - Mendoza Vanesa:
-	Escribir breve descripcion.
- - Ochoa Brenda: 
- 	"Soy Brenda Ochoa, vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
- - Romano Francisco:
-	Escribir breve descripcion.
- - Trebucq María Pía:
-	Escribir breve descripcion.
- - Vargas Matías:
- 	Escribir breve descripcion.
+ - **Aguirre Nicolás:**
+	>Escribir breve descripcion.
+ - **Lopez Carlos Agustin:**
+	>Escribir breve descripcion.
+ - **Macchiavelli Martin:**
+	"Vivo en Tigre, Buenos Aires, Argentina. Siempre me gusto mucho la tecnologia y desde la pandemia que me propuse aprender programacion. Me encantan los animales, la naturaleza y pasar tiempo con la familia y amigos."
+ - **Mendoza Vanesa:**
+	>Escribir breve descripcion.
+ - **Ochoa Brenda:** 
+ 	"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
+ - **Romano Francisco:**
+	>Escribir breve descripcion.
+ - **Trebucq María Pía:**
+	>Escribir breve descripcion.
+ - **Vargas Matías:**
+	>Escribir breve descripcion.
 
  * Acceso al repositorio remoto:
  https://github.com/PiaTcq/veganit.git

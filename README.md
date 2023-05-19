@@ -20,11 +20,11 @@
  - **Lopez Carlos Agustin:**
 	>Escribir breve descripcion.
  - **Macchiavelli Martin:**
-	>"Vivo en Tigre, Buenos Aires, Argentina. Me gusta mucho la tecnologia y en la pandemia me propuse aprender programacion para desarrollarme en este rubro."
+	>"Vivo en Tigre, Buenos Aires, Argentina. Me gusta mucho la tecnologia y en la pandemia me propuse aprender programacion para desarrollarme en este rubro".
  - **Mendoza Vanesa:**
 	>Escribir breve descripcion.
  - **Ochoa Brenda:** 
-	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar" 
+	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar".
  - **Romano Francisco:**
 	>"Vivo en santa fe capital, me gusta todo lo relacionado a la tecnología, ex jugador y fanático del rugby".
  - **Trebucq María Pía:**

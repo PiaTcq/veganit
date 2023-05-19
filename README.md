@@ -58,5 +58,5 @@
 - [Carrito de compras](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png)
 - Home o Página de inicio
 - Detalle de un producto       // faltan agregar estos links
-- Formulario de registro
-- Formulario de login
+- [Formulario de registro](https://i.ibb.co/JkGj7XS/registro.png)
+- [Formulario de login](https://i.ibb.co/17zgzs1/iniciar-sesion.png)

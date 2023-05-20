@@ -20,9 +20,9 @@
 
 	> Usuario github: [aguirreNico](https://github.com/aguirreNico)
  - **Lopez Carlos Agustin:**
-	>Escribir breve descripcion.
+	>"Soy de Cordoba Argentina, soy obviamente de Belgrano (el mas grande )juego al tenis y estoy muy entusiasmado con el curso y deseo poder terminar este curso con nuevas aptitudes ya que este sector me llama la atencion desde hace muchisimo tiempo."
 
-	>Usuario github:
+	>Usuario github: [Charly66munoz](https://github.com/Charly66munoz)
  - **Macchiavelli Martin:**
 	>"Vivo en Tigre, Buenos Aires, Argentina. Me gusta mucho la tecnologia y en la pandemia me propuse aprender programacion para desarrollarme en este rubro".
 

@@ -57,7 +57,7 @@
 ### * Wireframes:
 - [Carrito de compras](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png)
 - Home o Página de inicio
-- [detalle de un producto-app](https://ibb.co/bPXmNF2)
+- [detalle de un producto-app](https://i.ibb.co/ZVxXcSY/wireframe-detalle-prod-app.png)
 - [Detalle de un producto](https://ibb.co/92HNNXL)  
 - [Formulario de registro](https://i.ibb.co/JkGj7XS/registro.png)
 - [Formulario de login](https://i.ibb.co/17zgzs1/iniciar-sesion.png)

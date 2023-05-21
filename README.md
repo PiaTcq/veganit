@@ -18,35 +18,35 @@
  - **Aguirre Nicolás:**
 	>"Vivo en Santa Fe, Argentina. Me encanta salir con amigos, pasar tiempo con la familia, hacer deporte y aprender cada vez más sobre este largo camino que es la programación".
 
-	> Usuario github: [aguirreNico](https://github.com/aguirreNico)
+	> Usuario github: [aguirreNico](https://github.com/aguirreNico/)
  - **Lopez Carlos Agustin:**
 	>"Soy de Cordoba Argentina, soy obviamente de Belgrano (el mas grande )juego al tenis y estoy muy entusiasmado con el curso y deseo poder terminar este curso con nuevas aptitudes ya que este sector me llama la atencion desde hace muchisimo tiempo."
 
-	>Usuario github: [Charly66munoz](https://github.com/Charly66munoz)
+	>Usuario github: [Charly66munoz](https://github.com/Charly66munoz/)
  - **Macchiavelli Martin:**
 	>"Vivo en Tigre, Buenos Aires, Argentina. Me gusta mucho la tecnologia y en la pandemia me propuse aprender programacion para desarrollarme en este rubro".
 
-	> Usuario github: [Nitmacc](https://github.com/Nitmacc)
+	> Usuario github: [Nitmacc](https://github.com/Nitmacc/)
  - **Mendoza Vanesa:**
 	>"Soy de la provincia de Mendoza, capital, Argentina".
 
-	> Usuario github: [vanesa-30](https://github.com/vanesa-30)
+	> Usuario github: [vanesa-30](https://github.com/vanesa-30/)
  - **Ochoa Brenda:** 
 	>"Vivo en Cordoba, Argentina. Soy estudiante de ingenieria en sistemas en la Universidad Tecnologica Nacional. Disfruto pasar tiempo con amigos y familia y salir de noche a bailar". 
 
-	> Usuario github: [coritac](https://github.com/coritac)
+	> Usuario github: [coritac](https://github.com/coritac/)
  - **Romano Francisco:**
 	>"Vivo en santa fe capital, me gusta todo lo relacionado a la tecnología, ex jugador y fanático del rugby".
 
-	>Usuario github: [franroma89](https://github.com/franroma89)
+	>Usuario github: [franroma89](https://github.com/franroma89/)
  - **Trebucq María Pía:**
 	>"Vivo en Córdoba y trabajo en la UNC. En un futuro cercano me guataría trabajar como programadora así que me entusiasma mucho el curso".
 
-	> Usuario github: [PiaTcq](https://github.com/PiaTcq)
+	> Usuario github: [PiaTcq](https://github.com/PiaTcq/)
  - **Vargas Matías:**
 	>"Vivo en Resistencia, Chaco, tengo 18 años y estudio programación. Me gusta jugar videojuegos, ver anime y ver futbol".
 
-	> Usuario github: [MatiasZarate](https://github.com/MatiasZarate)
+	> Usuario github: [MatiasZarate](https://github.com/MatiasZarate/)
 
 ### * Acceso al repositorio remoto:
 - [Veganit](https://github.com/PiaTcq/veganit.git/)
@@ -55,9 +55,10 @@
 - [Trello.Veganit](https://trello.com/invite/b/rKm9l1Vj/ATTI9a28ddf3c7143abf42940262c3be8848E536452A/veganit/)
 
 ### * Wireframes:
-- [Carrito de compras](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png)
-- Home o Página de inicio
-- [detalle de un producto-app](https://i.ibb.co/ZVxXcSY/wireframe-detalle-prod-app.png)
-- [Detalle de un producto](https://ibb.co/92HNNXL)  
-- [Formulario de registro](https://i.ibb.co/JkGj7XS/registro.png)
-- [Formulario de login](https://i.ibb.co/17zgzs1/iniciar-sesion.png)
+- [Carrito de compras](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png/)
+- [Home pagina de inicio](https://i.ibb.co/0G2CYgD/mockup-inicio-pagina.png/)
+- [Home pagina de inicio tienda](https://i.ibb.co/ZfWcy0j/mockup-inicio-pagina-tienda.png/)
+- [detalle de un producto-app](https://i.ibb.co/ZVxXcSY/wireframe-detalle-prod-app.png/)
+- [Detalle de un producto](https://ibb.co/92HNNXL/)  
+- [Formulario de registro](https://i.ibb.co/JkGj7XS/registro.png/)
+- [Formulario de login](https://i.ibb.co/17zgzs1/iniciar-sesion.png/)

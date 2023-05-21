@@ -7,9 +7,9 @@
  
 ### * Algunas de las páginas que nos sirvieron de inspiración para este proyecto son:
 
-- [https://www.rappi.com.ar/](https://www.rappi.com.ar/)
+- [https://www.rappi.com.ar](https://www.rappi.com.ar/)
 - [https://feliceslasvacas.com](https://feliceslasvacas.com/)
-- [https://www.pedidosya.com.ar/](https://www.pedidosya.com.ar/)
+- [https://www.pedidosya.com.ar](https://www.pedidosya.com.ar/)
 - [lihttps://funnyveggie.com.arnk](https://funnyveggie.com.ar/)
 - [https://www.vegaffinity.com/tienda-vegana](https://www.vegaffinity.com/tienda-vegana/)
 
@@ -20,7 +20,7 @@
 
 	> Usuario github: [aguirreNico](https://github.com/aguirreNico/)
  - **Lopez Carlos Agustin:**
-	>"Soy de Cordoba Argentina, soy obviamente de Belgrano (el mas grande )juego al tenis y estoy muy entusiasmado con el curso y deseo poder terminar este curso con nuevas aptitudes ya que este sector me llama la atencion desde hace muchisimo tiempo."
+	>"Soy de Cordoba Argentina, soy obviamente de Belgrano (el mas grande )juego al tenis y estoy muy entusiasmado con el curso y deseo poder terminar este curso con nuevas aptitudes ya que este sector me llama la atencion desde hace muchisimo tiempo".
 
 	>Usuario github: [Charly66munoz](https://github.com/Charly66munoz/)
  - **Macchiavelli Martin:**
@@ -54,11 +54,11 @@
 ### * Acceso al tablero de trabajo:
 - [Trello.Veganit](https://trello.com/invite/b/rKm9l1Vj/ATTI9a28ddf3c7143abf42940262c3be8848E536452A/veganit/)
 
-### * Wireframes:
-- [Carrito de compras](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png/)
+### * Wireframes y Mockups:
 - [Home pagina de inicio](https://i.ibb.co/0G2CYgD/mockup-inicio-pagina.png/)
 - [Home pagina de inicio tienda](https://i.ibb.co/ZfWcy0j/mockup-inicio-pagina-tienda.png/)
-- [detalle de un producto-app](https://i.ibb.co/ZVxXcSY/wireframe-detalle-prod-app.png/)
-- [Detalle de un producto](https://ibb.co/92HNNXL/)  
 - [Formulario de registro](https://i.ibb.co/JkGj7XS/registro.png/)
 - [Formulario de login](https://i.ibb.co/17zgzs1/iniciar-sesion.png/)
+- [Detalle de un producto](https://ibb.co/92HNNXL/)
+- [Detalle de un producto-app](https://i.ibb.co/ZVxXcSY/wireframe-detalle-prod-app.png/)
+- [Carrito de compras](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png/)

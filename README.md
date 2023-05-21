@@ -38,7 +38,7 @@
  - **Romano Francisco:**
 	>"Vivo en santa fe capital, me gusta todo lo relacionado a la tecnología, ex jugador y fanático del rugby".
 
-	>Usuario github:
+	>Usuario github: [franroma89](https://github.com/franroma89)
  - **Trebucq María Pía:**
 	>"Vivo en Córdoba y trabajo en la UNC. En un futuro cercano me guataría trabajar como programadora así que me entusiasma mucho el curso".
 

@@ -59,6 +59,6 @@
 - [Home pagina de inicio tienda](https://i.ibb.co/ZfWcy0j/mockup-inicio-pagina-tienda.png/)
 - [Formulario de registro](https://i.ibb.co/JkGj7XS/registro.png/)
 - [Formulario de login](https://i.ibb.co/17zgzs1/iniciar-sesion.png/)
-- [Detalle de un producto](https://ibb.co/92HNNXL/)
+- [Detalle de un producto](https://i.ibb.co/4Nk59Kj/wireframe-detalle-producto.png/)
 - [Detalle de un producto-app](https://i.ibb.co/ZVxXcSY/wireframe-detalle-prod-app.png/)
 - [Carrito de compras](https://i.ibb.co/XSGM93n/wireframe-carrito-De-Compras.png/)

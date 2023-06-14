@@ -4,4 +4,6 @@ const path = require("path");
 
 app.use(express.static(path.join(__dirname,"./public")));
 app.listen(3000);
+
+/* aca van las rutas */
 app.get("/producto", (req,res)=>res.sendFile(path.join(__dirname, "/views/detalle-producto.html")));

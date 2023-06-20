@@ -30,5 +30,5 @@ app.get('*', (req, res) => {
 /*server run*/
 
 app.listen(3000, function(){
-    console.log("Servidro Corriendo")
+    console.log("Servidor Corriendo")
 });

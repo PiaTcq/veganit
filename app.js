@@ -1,34 +1,29 @@
+const loginRoutes = require("./routes/loginRoutes");
+const registerRoutes = require("./routes/registerRoutes");
+const homeRoutes = require("./routes/homeRoutes");
+const productoRoutes = require("./routes/productoRoutes");
+const carritoRoutes = require("./routes/carritoRoutes");
+
 const express = require('express');
 const path = require('path');
-
 const app = express();
+
+//app.set("view engine", "ejs");
 
 app.use(express.static(path.join(__dirname,'/public')));
 
-/* aca van las rutas */
+app.use("/", homeRoutes);
 
-app.get('/', (req, res) => {
-    res.sendFile(path.join(__dirname + '/views/index.html'));
-});
-app.get('/producto', (req,res)=>{
-    res.sendFile(path.join(__dirname + '/views/detalle-producto.html'));
-});
-app.get('/login',(req, res)=>{
-    res.sendFile(path.join(__dirname + '/views/login.html'));
-});
-app.get('/carrito', (req,res)=>{
-    res.sendFile(path.join(__dirname + '/views/carrito.html'));
-});
-app.get('/register', (req, res) => {
-    res.sendFile(path.join(__dirname + '/views/register.html'));
-});
+app.use("/login", loginRoutes);
 
-app.get('*', (req, res) => {
-    res.send("Ruta restringida no corresponde a ninguna direccion");
-});
+app.use("/register", registerRoutes);
 
-/*server run*/
+app.use("/producto", productoRoutes);
+
+app.use("/carrito", carritoRoutes);
 
 app.listen(3000, function(){
     console.log("Servidor Corriendo")
 });
+
+

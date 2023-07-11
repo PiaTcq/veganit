@@ -13,7 +13,7 @@ app.set("view engine", "ejs");
 app.use(express.static(path.join(__dirname,'/public')));
 
 app.use("/", homeRoutes);
-
+//./partials/footer
 app.use("/login", loginRoutes);
 
 app.use("/register", registerRoutes);

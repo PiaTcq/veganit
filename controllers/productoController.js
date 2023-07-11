@@ -3,7 +3,7 @@ const path = require("path");
 const controlador = {
 
     producto: (req, res) => {
-        res.render("detalle-producto");
+        res.render("products/detalle-producto");
     }
 }
 

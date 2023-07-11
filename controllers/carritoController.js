@@ -3,7 +3,7 @@ const path = require("path");
 const controlador = {
 
     carrito: (req, res) => {
-        res.render("carrito");
+        res.render("products/carrito");
     }
 }
 

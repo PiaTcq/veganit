@@ -5,6 +5,5 @@ const router = express.Router();
 
 router.get("/", homeController.index);
 
-//router.get("/register", loginController.register);
 
 module.exports = router;
